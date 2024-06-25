@@ -10,7 +10,7 @@
 4. History
    1. Reverence
    2. Inference
-   3. Deliverence
+   3. [Deliverence](https://abikesa.github.io/schoolofresentment/)
       - A person who has encoded all of human history into one word: the patriarchy 
       - Such a person may not find Oscar Wilde funny, General McArthur articulate, or Brad Pitt sexy 
       - More’s the pity that a feminist isn’t humorous, valiant, or buxom
