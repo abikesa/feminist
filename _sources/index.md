@@ -40,7 +40,6 @@ _psychology {ref}`rr-open-data`_
 *GPT representation of life is about `propensities` (e.g. of black women to watch a Tyler Perry film)*              
 *[Propensity](markdown/feminism.md) to see, recall, feel, [kumbaya](markdown/feminist.md), [leverage](markdown/plotdevice.md), will*        
 ```
-
     1. Multimodal, lifetime of experience
                                          \
         2. Compute by oldest neuronet -> 4. Latent-space -> 5. Bayesian decipherers -> 6. GPT representation of life
